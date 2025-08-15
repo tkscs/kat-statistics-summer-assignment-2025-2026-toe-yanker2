@@ -101,7 +101,7 @@ hist(mcq_scores)
 
 # 10. Send me your code
 
-1.  Save this file.
+1.  Save this fileeeeeeee
 
 2.  In the top menu bar, go to Tools \> Version Control \> Commit...
 
